@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="test for prov Table" language="en" table="x_91390_test_for_p_test_for_prov_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>test for prov Table</label>
+            <language>en</language>
+            <name>x_91390_test_for_p_test_for_prov_table</name>
+            <plural>test for prov Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-05 07:40:30</sys_created_on>
+            <sys_id>710706c14f410300b6b700f18110c72c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>test for prov Table</sys_name>
+            <sys_package display_value="test for prov" source="x_91390_test_for_p">0d0706414f010300b6b700f18110c724</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test for prov">0d0706414f010300b6b700f18110c724</sys_scope>
+            <sys_update_name>sys_documentation_x_91390_test_for_p_test_for_prov_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-05 07:40:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
